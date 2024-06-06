@@ -1,0 +1,13 @@
+body{
+  background-color: yellow;
+color: red;
+top: 50px;
+position: relative;
+text-align: center;
+}
+
+#newbtn{
+  position: relative;
+  top: 5px;
+  cursor: pointer;
+}
